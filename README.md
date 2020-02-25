@@ -10,5 +10,11 @@
 * JavaScript-Used to make the webpage interactive
 * jQuery-Used to easen the use of JavaScript on the webpage
 
+
+# BEHAVIOUR DRIVEN DEVELOPMENT
+|Behaviour| Input| Output|
+|:--------|:-----|:------|
+|Form to be filled| User enters required credentials| Dialog box with respective name|
+=======
 # Live Site
 https://jared-amima.github.io/group3/.
