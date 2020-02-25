@@ -1,4 +1,5 @@
-# group3 
+## Description
+This is a project that helps us practise git collaboration which we will use in the upcoming projects .This is hence a collaboration of seven people 
 ### Setup/installation requirements
 * Create a folder in your laptop.
 * GO to https://github.com/muchaimwitia/group3
