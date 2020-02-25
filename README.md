@@ -1,4 +1,8 @@
-# group3
+# group3 
+###Setup/installation requirements
+*Create a folder in your laptop.
+*Clone the repository to the folder.
+*Fork the repository.
 ## Technologies Used
 * HTML-Used to build user interface
 * CSS- Used to add styles to the webpage
