@@ -9,4 +9,5 @@
 * JavaScript-Used to make the webpage interactive
 * jQuery-Used to easen the use of JavaScript on the webpage
 
- https://jared-amima.github.io/group3/.
+# Live Site
+https://jared-amima.github.io/group3/.
