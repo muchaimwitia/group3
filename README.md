@@ -1,6 +1,7 @@
 # group3 
 ###Setup/installation requirements
 *Create a folder in your laptop.
+*GO to https://github.com/muchaimwitia/group3
 *Clone the repository to the folder.
 *Fork the repository.
 ## Technologies Used
